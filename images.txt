@@ -1,3 +1,4 @@
+osrf/ros:noetic-desktop-full
 alpine
 nginx
-osrf/ros:noetic-desktop-full
+
